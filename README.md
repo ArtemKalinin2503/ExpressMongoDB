@@ -28,6 +28,6 @@
 Все это позволит универсально поднимать сервер (Express) и MongoDB для любого проекта (остаеться только обращаться к БД исходя и контекста технологий которые используем например React)
 
 Полезные ссылки:
-https://loftblog.ru/material/5-realizuem-dobavlenie-i-obnovlenie-ispolnitelej-v-baze-dannyx/
-https://habr.com/post/192870/
-http://www.mongoing.com/docs/reference/method/db.collection.updateOne.html
+- https://loftblog.ru/material/5-realizuem-dobavlenie-i-obnovlenie-ispolnitelej-v-baze-dannyx/
+- https://habr.com/post/192870/
+- http://www.mongoing.com/docs/reference/method/db.collection.updateOne.html
