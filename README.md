@@ -1,6 +1,6 @@
 # ExpressMongoDB
 Используем сервер Express и базу данных MongoDB
-Для запуска сначала установить зависимости sudo npm install
+- Для запуска сначала установить зависимости sudo npm install
 
 Установка MongoDB:
 - brew install wget (пакетный менеджер)
